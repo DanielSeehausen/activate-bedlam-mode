@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/d-117224-4932-1jdi1x7/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/d-117224-4932-1jdi1x7/package.tgz",
+        "spec": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/d-117224-4932-1jdi1x7/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/apm-install-dir-117224-4932-46jmtq"
+    ]
+  ],
+  "_from": "../d-117224-4932-1jdi1x7/package.tgz",
+  "_id": "activate-bedlam-mode@1.4.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/activate-bedlam-mode",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/d-117224-4932-1jdi1x7/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/d-117224-4932-1jdi1x7/package.tgz",
+    "spec": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/d-117224-4932-1jdi1x7/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117224-4932-1jdi1x7/package.tgz",
+  "_shasum": "b34c40054479df0b48d1147f2f05e656336744e5",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/d-117224-4932-1jdi1x7/package.tgz",
+  "_where": "/private/var/folders/rz/73lnpnvd0xn80tgpv0gp_w500000gn/T/apm-install-dir-117224-4932-46jmtq",
+  "author": {
+    "name": "Joel Besada // Daniel Seehausen",
+    "email": "joel@joelb.me // daniel.seehausen@gmail.com",
+    "url": "http://joelb.me // https://github.com/danielseehausen"
+  },
+  "bugs": {
+    "url": "https://github.com/JoelBesada/activate-bedlam-mode/issues"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "lodash.defer": "^4.1.0",
+    "lodash.random": "^3.1.5",
+    "lodash.sample": "^4.2.1",
+    "lodash.throttle": "^4.0.1"
+  },
+  "description": "Activate bedlam mode for increased productivity (built off of Joel Besada's activate-power-mode package)",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "homepage": "https://github.com/DanielSeehausen/activate-bedlam-mode#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/activate-bedlam-mode",
+  "name": "activate-bedlam-mode",
+  "optionalDependencies": {},
+  "readme": "see the readme.md in repository",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSeehausen/activate-bedlam-mode.git"
+  },
+  "version": "2.0.0"
+}

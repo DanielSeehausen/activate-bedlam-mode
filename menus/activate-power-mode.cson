@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle Bedlam Mode'
+      'command': 'activate-bedlam-mode:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Activate Bedlam Mode'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'activate-bedlam-mode:toggle'
+        }
+      ]
+    ]
+  }
+]
